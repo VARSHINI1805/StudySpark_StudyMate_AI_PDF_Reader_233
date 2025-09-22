@@ -1,4 +1,4 @@
-# CogniRead AI 🧠
+# StusyMate AI 🧠
 
 <p align="center">
   <strong>Your intelligent academic assistant for effortless document Q&A.</strong>
@@ -13,7 +13,7 @@
 
 ---
 
-Tired of endlessly scrolling through hundreds of pages in your PDFs to find a single piece of information? **CogniRead AI** transforms your static documents into a dynamic, searchable knowledge base. Upload your study materials, research papers, or textbooks, and ask questions in plain English to get instant, accurate answers sourced directly from the text.
+Tired of endlessly scrolling through hundreds of pages in your PDFs to find a single piece of information? **StudyMate AI** transforms your static documents into a dynamic, searchable knowledge base. Upload your study materials, research papers, or textbooks, and ask questions in plain English to get instant, accurate answers sourced directly from the text.
 
 <!-- 💡 TIP: Record a short GIF of your app in action and replace the placeholder below! -->
 <p align="center">
@@ -82,15 +82,3 @@ streamlit run streamlit_app.py
 ```
 The application will open automatically in your web browser. Now you're ready to upload your documents and start asking questions!
 
-## 🤝 Contributing
-
-Contributions are welcome! If you have ideas for new features, bug fixes, or improvements, feel free to:
-1.  Fork the repository.
-2.  Create a new feature branch (`git checkout -b feature/YourAmazingFeature`).
-3.  Commit your changes (`git commit -m 'Add some amazing feature'`).
-4.  Push to the branch (`git push origin feature/YourAmazingFeature`).
-5.  Open a Pull Request.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
