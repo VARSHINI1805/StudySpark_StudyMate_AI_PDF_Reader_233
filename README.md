@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python 3.8+">
   <a href="https://streamlit.io" target="_blank"><img src="https://img.shields.io/badge/Built%20with-Streamlit-ff69b4.svg" alt="Built with Streamlit"></a>
   <img src="https://img.shields.io/badge/Model-RoBERTa-667eea.svg" alt="RoBERTa Model">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
 </p>
 
 ---
