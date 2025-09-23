@@ -1,4 +1,4 @@
-# StusyMate AI 🧠
+# StudyMate AI 🧠
 
 <p align="center">
   <strong>Your intelligent academic assistant for effortless document Q&A.</strong>
